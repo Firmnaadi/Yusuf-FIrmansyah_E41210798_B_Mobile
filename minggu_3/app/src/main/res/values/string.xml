@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">minggu_3</string>
+    <string-array name="countries_array">
+        <item>Afganistan</item>
+        <item>albania</item>
+        <item>algeria</item>
+        <item>american Samoa</item>
+        <item>Andorra</item>
+        <item>angola</item>
+        <item>angola</item>
+        <item>anguolla</item>
+        <item>anttarctice</item>
+        <item>antigua and barbuda</item>
+        <item>argentina</item>
+        <item>armenia</item>
+        <item>aruba</item>
+        <item>Australia</item>
+        <item>austria</item>
+        <item>azerbaijan</item>
+        <item>bahrain</item>
+        <item>bangladesh</item>
+        <item>barbados</item>
+        <item>belarus</item>
+        <item>belgium</item>
+    </string-array>
+</resources>
