@@ -1,22 +1,21 @@
 package com.example.minggu2;
 
+import androidx.activity.result.contract.ActivityResultContracts;
 import androidx.appcompat.app.AppCompatActivity;
-import android.app.Activity;
-import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.Button;
-import android.widget.Toast;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_linear_layout);
+        setContentView(R.layout.activity_constraint_layout);
     }
+//    protected void linear(View view){
+//        Intent intent = new Intent(MainActivity.this, ConstrainActivity.class);
+//        StartActivity(intent);
+//    }
 }

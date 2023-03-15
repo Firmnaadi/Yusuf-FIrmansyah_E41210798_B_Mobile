@@ -1,2 +1,4 @@
-package com.example.minggu2;public class ConstrainActivity {
+package com.example.minggu2;
+
+public class ConstrainActivity {
 }
